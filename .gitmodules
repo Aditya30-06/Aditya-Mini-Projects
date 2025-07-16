@@ -1,0 +1,12 @@
+[submodule "Simon-Game"]
+	path = Simon-Game
+	url = https://github.com/Aditya30-06/Simon-Game
+[submodule "To-Do-React"]
+	path = To-Do-React
+	url = https://github.com/Aditya30-06/To-Do-React
+[submodule "Lottery-Game-React"]
+	path = Lottery-Game-React
+	url = https://github.com/Aditya30-06/Lottery-Game-React
+[submodule "To-do-JS"]
+	path = To-do-JS
+	url = https://github.com/Aditya30-06/To-do-JS
