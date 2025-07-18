@@ -10,3 +10,6 @@
 [submodule "To-do-JS"]
 	path = To-do-JS
 	url = https://github.com/Aditya30-06/To-do-JS
+[submodule "Weather-App-React"]
+	path = Weather-App-React
+	url = https://github.com/Aditya30-06/Weather-App-React

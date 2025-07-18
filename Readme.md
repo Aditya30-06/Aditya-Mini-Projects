@@ -8,6 +8,7 @@ A growing collection of fun and functional web applications built to explore and
 
 | 💡 Project | 🔗 Live Demo |
 |------------|--------------|
+| 🌦️ **React Weather App**<br><sub>Search real-time weather data using OpenWeather API. Clean, responsive UI.</sub> | [Check Weather](https://aditya30-06.github.io/Weather-App-React/) |
 | 🎰 **Lottery Game**<br><sub>Generate a random number and win if the digit sum is 15!</sub> | [Play Now](https://aditya30-06.github.io/Lottery-Game-React/) |
 | ✅ **To-Do App (Vanilla JS)**<br><sub>Basic to-do list using plain JavaScript. Add & delete tasks easily.</sub> | [Try It](https://aditya30-06.github.io/To-do-JS/) |
 | 📝 **To-Do App (React)**<br><sub>A React-based version of the to-do list with a component-based approach.</sub> | [Try It](https://aditya30-06.github.io/To-do-React/) |
@@ -18,10 +19,10 @@ A growing collection of fun and functional web applications built to explore and
 ## 🧱 More Coming Soon
 
 This list is just the beginning! Stay tuned for:
-- 🎲 More mini-games
-- 📊 Utility tools
-- 🧩 Fun experiments
-- 💻 Projects with external APIs
+- 🎲 More mini-games  
+- 📊 Utility tools  
+- 🧩 Fun experiments  
+- 💻 Projects with external APIs  
 
 ---
 
