@@ -13,3 +13,6 @@
 [submodule "Weather-App-React"]
 	path = Weather-App-React
 	url = https://github.com/Aditya30-06/Weather-App-React
+[submodule "To-Do-Redux"]
+	path = To-Do-Redux
+	url = https://github.com/Aditya30-06/To-Do-Redux

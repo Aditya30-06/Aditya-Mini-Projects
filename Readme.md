@@ -1,6 +1,6 @@
 # 🚀 Mini Projects by Aditya
 
-A growing collection of fun and functional web applications built to explore and showcase various development concepts. This repo includes projects that range from games to productivity tools — all simple, lightweight, and interactive.
+A growing collection of **fun**, **interactive**, and **functional** web applications built to explore and demonstrate modern web development concepts. From games to productivity tools, each project is crafted to be lightweight, responsive, and beginner-friendly.
 
 ---
 
@@ -8,27 +8,34 @@ A growing collection of fun and functional web applications built to explore and
 
 | 💡 Project | 🔗 Live Demo |
 |------------|--------------|
-| 🌦️ **React Weather App**<br><sub>Search real-time weather data using OpenWeather API. Clean, responsive UI.</sub> | [Check Weather](https://aditya30-06.github.io/Weather-App-React/) |
+| 🌦️ **React Weather App**<br><sub>Real-time weather search using the OpenWeather API. Clean and responsive UI.</sub> | [Check Weather](https://aditya30-06.github.io/Weather-App-React/) |
 | 🎰 **Lottery Game**<br><sub>Generate a random number and win if the digit sum is 15!</sub> | [Play Now](https://aditya30-06.github.io/Lottery-Game-React/) |
-| ✅ **To-Do App (Vanilla JS)**<br><sub>Basic to-do list using plain JavaScript. Add & delete tasks easily.</sub> | [Try It](https://aditya30-06.github.io/To-do-JS/) |
-| 📝 **To-Do App (React)**<br><sub>A React-based version of the to-do list with a component-based approach.</sub> | [Try It](https://aditya30-06.github.io/To-do-React/) |
-| 🎮 **Simon Game**<br><sub>Classic memory game. Repeat the color sequence to win!</sub> | [Play Now](https://aditya30-06.github.io/Simon-Game/) |
+| ✅ **To-Do App (Vanilla JS)**<br><sub>Simple to-do list using plain JavaScript. Add and delete tasks easily.</sub> | [Try It](https://aditya30-06.github.io/To-do-JS/) |
+| 📝 **To-Do App (React)**<br><sub>React-powered to-do list with reusable components and clean design.</sub> | [Try It](https://aditya30-06.github.io/To-do-React/) |
+| 🧠 **To-Do App (React + Redux)**<br><sub>State-managed to-do list using Redux Toolkit. Conditional UI and clean state flow.</sub> | [Launch](https://aditya30-06.github.io/To-Do-Redux/) |
+| 🎮 **Simon Game**<br><sub>A classic memory challenge. Follow and repeat the color sequence.</sub> | [Play Now](https://aditya30-06.github.io/Simon-Game/) |
 
 ---
 
-## 🧱 More Coming Soon
+## 🧱 Upcoming Additions
 
-This list is just the beginning! Stay tuned for:
-- 🎲 More mini-games  
-- 📊 Utility tools  
-- 🧩 Fun experiments  
-- 💻 Projects with external APIs  
+This is just the beginning! Future additions will include:
+
+- 🎲 More browser-based mini-games  
+- 📊 Small utility tools and widgets  
+- 🌐 API-driven experiments  
+- 🎨 UI/UX concept demos  
+- 💡 JavaScript logic puzzles
+
+---
+
+## 🧑‍💻 Author
+
+Made with 💖 by [**Aditya Birla**](https://github.com/Aditya30-06)  
+If you enjoy these projects, consider giving the repo a ⭐ and sharing it with your friends!
 
 ---
 
-## 👨‍💻 Author
+## 📌 Stay Connected
 
-Made with ❤️ by **[Aditya](https://github.com/Aditya30-06)**  
-If you like this repository, consider giving it a ⭐️ and sharing it with others!
-
----
+Follow for updates and new projects. Feedback and contributions are always welcome!
